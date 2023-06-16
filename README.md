@@ -59,7 +59,7 @@ The instructions for using the keys and the information about the turn number ar
 
 In the lower section, there is a legend of the organisms' designations with the colors that represent them (JButtons non-functional).
 
-Functional buttons: `Start a new game` and `Exit game`. When you click on them, using the ActionListener the appropriate action is performed. `Quit game` closes the game window completely. 
+Functional buttons: `Zacznij nowa gre` (Start a new game) and `Wyjdz z gry` (Exit game). When you click on them, using the ActionListener the appropriate action is performed. `Wyjdz z gry` (Exit game) closes the game window completely. 
 
 Unlike the first project in C++, `displaying information` about the current actions on the board had to take place not in the console, but `in the graphical window of the game`.
 
